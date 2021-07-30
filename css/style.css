@@ -1,0 +1,223 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+header{
+	border-bottom: 1px solid #eee;
+}
+
+
+.navbar{
+	overflow: hidden;
+	width: 90%;
+	margin: 0 5%;
+}
+
+
+.logo{
+	float: left;
+	width: 30%;
+	padding: 16px 0;
+}
+
+
+.menu{
+	float: right;
+	width: 50%;
+	text-transform: capitalize;
+	overflow: hidden;
+	line-height: 68px;
+
+}
+
+.menu ul{
+	list-style: none;
+	float: right;
+
+}
+
+
+.menu ul li{
+	float: left;
+	margin-left: 24px;
+}
+
+.menu ul li a{
+	text-decoration: none;
+	color: #0F2656;
+}
+
+
+.banner{
+	text-align: center;
+	margin: 16px 0;
+	margin: 0 5%;
+}
+
+.banner_text h1{
+	font-size: 50px;
+	color: #0F2656;
+	margin: 16px 0;
+}
+
+.banner_text h1 span{
+	color: #008AFF;
+}
+
+.banner_text p{
+	color: #0F2656;
+	font-size: 20px;
+}
+
+
+.image img{
+	width: 70%;
+}
+
+
+
+.info{
+	overflow: hidden;
+}
+
+.left{
+	width: 49%;
+	float: left;
+	text-align: right;
+}
+
+.left h1{
+	font-size: 40px;
+	color: #F15767;
+}
+
+.left p{
+	color: #0F2656;
+	margin-top: 10px;
+	line-height: 20px;
+	text-align: right;
+}
+
+
+.right{
+	width: 49%;
+	float: right;
+	text-align: left;
+}
+
+.right h1{
+	color: #0F2656;
+	font-size: 40px;
+}
+
+
+
+.services{
+	overflow: hidden;
+	width: 70%;
+	margin: 32px 15%;
+}
+
+
+
+.services1{
+	float: left;
+	background-color: #FDEBED;
+	width: 30%;
+	padding: 16px 8px;
+	text-align: center;
+	height: 270px;
+}
+
+.services1 img{
+	width: 70%;
+}
+
+.services1 h1{
+	text-align: left;
+	padding: 10px 0;
+	margin: 0 5px;
+	color: #0F2656;
+}
+
+.services1 p{
+	text-align: left;
+	padding: 10px 5px;
+	margin: 0 5px
+	color: #0F2656;
+}
+
+.services2{
+	float: left;
+	background-color: #EBF9F4;
+	width: 30%;
+	margin: 0 2.4%;
+	padding: 16px 8px;
+	text-align: center;
+	height: 270px;
+}
+
+.services2 img{
+	width: 70%;
+}
+
+.services2 h1{
+	text-align: left;
+	padding: 10px 0;
+	margin: 0 5px;
+	color: #0F2656;
+}
+
+.services2 p{
+	text-align: left;
+	padding: 10px 5px;
+	margin: 0 5px
+	color: #0F2656;
+}
+
+.services3{
+	float: right;
+	background-color: #FFF7E8;
+	width: 30%;
+	padding: 16px 8px;
+	text-align: center;
+	height: 270px;
+}
+
+.services3 img{
+	width: 70%;
+}
+
+.services3 h1{
+	text-align: left;
+	padding: 10px 0;
+	margin: 0 5px;
+	color: #0F2656;
+}
+
+
+.services3 p{
+	text-align: left;
+	padding: 10px 5px;
+	margin: 0 5px
+	color: #0F2656;
+}
+
+
+
+footer{
+	background-color: #008AFF;
+	text-align: center;
+	height: 20px;
+	padding: 20px 0;
+}
+
+footer p{
+	color: #8AC0FF;
+}
+
+footer span{
+	color: white;
+}
